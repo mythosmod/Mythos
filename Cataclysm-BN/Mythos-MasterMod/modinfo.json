@@ -1,0 +1,19 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "MythosMod",
+    "name": "Mythos - Master Mod",
+    "authors": [ "mythosmod" ],
+    "description": "The master mod for the Mythos series of mods, containing the following relied on by all subsequent mods:\n\n- Mental Strain Mechanics",
+    "category": "content",
+    "dependencies": [ "bn" ],
+    "version": "0.1"
+  },
+  {
+    "type": "skill",
+    "id": "spellcraft",
+    "name": "mythos knowledge",
+    "display_category": "display_social",
+    "description": "Your knowledge and understanding of the mythos - higher levels allow for more powerful spells, wards and rituals but at the cost of your sanity from learning what man was not meant to know."
+  }
+]
